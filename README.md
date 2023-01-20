@@ -13,5 +13,5 @@ MNIST - contains number's Images and relevent number
 6. keras
 7. tensorflow
 
-![Alt text](./MNIST.png)
+![Image](MINST.png)
 
